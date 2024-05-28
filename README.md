@@ -1,9 +1,6 @@
 # T20-Cricket-Data-Analytics
 
 ---
-
-Cricket Analytics Project for Resume
-
 This project uses Python (pandas) and Power BI to analyze T20 World Cup data (not real-time data, but from the 2022 World Cup) to identify the best possible cricket team. It involves:
 > 
 1. Web scraping data from ESPN Cricinfo
